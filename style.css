@@ -16,4 +16,34 @@ body {
   color: var(--color-text);
 }
 
+
+
+#naglowek {
+    background-color: forestgreen;
+    color: crimson;
+    text-align: center;
+    padding: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 2px;
+}
+
+#naglowek h1{
+    font-size: 36px;
+    font-weight: bold;
+}
+
+#naglowek p {
+    font-size: 20px;
+    color: #9bf079;
+    font-style: italic;
+    font-width: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+}
+
+#baner{
+    background-image: url('https://picsum.photos/1200/600?random=1');
+}
+
+
 /* TODO: stylowanie karty gracza */
